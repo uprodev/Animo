@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Cooper Lt BT';
+  src: url('../fonts/CooperBT-Light.woff2') format('woff2'),
+  url('../fonts/CooperBT-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cooper Lt BT';
+  src: url('../fonts/CooperBT-LightItalic.woff2') format('woff2'),
+  url('../fonts/CooperBT-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('../fonts/Satoshi-Bold.woff2') format('woff2'),
+  url('../fonts/Satoshi-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('../fonts/SatoshiVariable-BoldItalic.woff2') format('woff2'),
+  url('../fonts/SatoshiVariable-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('../fonts/Satoshi-Regular.woff2') format('woff2'),
+  url('../fonts/Satoshi-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
