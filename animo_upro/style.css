@@ -1,0 +1,30 @@
+/*   
+Theme Name: Animo
+*/
+
+.item-4x .btn-wrap{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.contact-banner ul li{
+  flex-wrap: wrap;
+}
+.contact-banner ul li p{
+  width: calc(100% - 47px);
+  text-align: left;
+}
+.contact-banner ul li p:nth-child(3){
+  margin-left: 47px;
+}
+.contact-banner ul li p{
+  margin: 0;
+}
+
+@media (max-width: 991px){
+  .contact-banner ul {
+    width: 250px;
+    margin: auto;
+  }
+}
